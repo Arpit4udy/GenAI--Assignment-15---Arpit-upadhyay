@@ -14,7 +14,7 @@ Each task is implemented in a separate Python file and demonstrates different pr
 
 
 - [Task 1](task_1.ipynb)
-  - **Description:**  
+   - **Description:**  
     Linear regression
 
 
@@ -23,7 +23,7 @@ Each task is implemented in a separate Python file and demonstrates different pr
 ### PART 2 REGRESSION METRICS
 
   - [Task 2](task_2.ipynb)
-  - **Description:**  
+   - **Description:**  
      Regression evaluation metrics
 
 
@@ -32,34 +32,34 @@ Each task is implemented in a separate Python file and demonstrates different pr
 ## PART 3 CLASSIFICATION ALGORITHMS
 
   - [Task 3](task_3.ipynb)
-   - **Description:**  
+    - **Description:**  
      Logistic Regression
 
 - [Task 4](task_4.ipynb)
-  - **Description:**  
+    - **Description:**  
    Naive Bayes Classifier
 
 - [Task 5](task_5.ipynb)
-  - **Description:**  
+   - **Description:**  
   K Nearest Neighbors
 
 ## PART 4 CLASSIFICATION METRICS
 
 - [Task 6](task_6.ipynb)
-  - **Description:**  
+   - **Description:**  
     Evaluation Metrics for Classification
 
 -
 
-## PART 4 MODEL BEHAVIOUR AND LEARNING CONCEPTS
+## PART 5 MODEL BEHAVIOUR AND LEARNING CONCEPTS
 
-    - [Task 7](task_7.ipynb)
-  - **Description:**  
+  - [Task 7](task_7.ipynb)
+   - **Description:**  
     OverFitting and UnderFitting
 
     - [Task 8](task_8.ipynb)
-  - **Description:**  
-   Bias and Variance
+    - **Description:**  
+    Bias and Variance
   
 
 
