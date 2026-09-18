@@ -53,11 +53,11 @@ Each task is implemented in a separate Python file and demonstrates different pr
 
 ## PART 5 MODEL BEHAVIOUR AND LEARNING CONCEPTS
 
-  - [Task 7](task_7.ipynb)
+ - [Task 7](task_7.ipynb)
    - **Description:**  
     OverFitting and UnderFitting
 
-    - [Task 8](task_8.ipynb)
+- [Task 8](task_8.ipynb)
     - **Description:**  
     Bias and Variance
   
