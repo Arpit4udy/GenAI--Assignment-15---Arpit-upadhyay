@@ -22,8 +22,8 @@ Each task is implemented in a separate Python file and demonstrates different pr
 
 ### PART 2 REGRESSION METRICS
 
-  - [Task 2](task_2.ipynb)
-   - **Description:**  
+ - [Task 2](task_2.ipynb)
+    - **Description:**  
      Regression evaluation metrics
 
 
